@@ -1,0 +1,493 @@
+City,Mode,MonthBeginning,DayType,RouteID,RouteName,AverageDailyRidership,Source
+Philadelphia,Bus,2019-01-01,All,ALL,ALL,459160,APC
+Philadelphia,CCT,2019-01-01,All,ALL,ALL,4294,Revenue
+Philadelphia,Heavy Rail,2019-01-01,All,ALL,ALL,296709,Revenue
+Philadelphia,Regional Rail,2019-01-01,All,ALL,ALL,122856,Revenue
+Philadelphia,Trackless Trolley,2019-01-01,All,ALL,ALL,16853,APC
+Philadelphia,Trolley,2019-01-01,All,ALL,ALL,82787,APC
+Philadelphia,Bus,2019-02-01,All,ALL,ALL,464674,APC
+Philadelphia,CCT,2019-02-01,All,ALL,ALL,4652,Revenue
+Philadelphia,Heavy Rail,2019-02-01,All,ALL,ALL,315858,Revenue
+Philadelphia,Regional Rail,2019-02-01,All,ALL,ALL,121161,Revenue
+Philadelphia,Trackless Trolley,2019-02-01,All,ALL,ALL,16812,APC
+Philadelphia,Trolley,2019-02-01,All,ALL,ALL,82787,APC
+Philadelphia,Bus,2019-03-01,All,ALL,ALL,478487,APC
+Philadelphia,CCT,2019-03-01,All,ALL,ALL,6027,Revenue
+Philadelphia,Heavy Rail,2019-03-01,All,ALL,ALL,308777,Revenue
+Philadelphia,Regional Rail,2019-03-01,All,ALL,ALL,118228,Revenue
+Philadelphia,Trackless Trolley,2019-03-01,All,ALL,ALL,18813,APC
+Philadelphia,Trolley,2019-03-01,All,ALL,ALL,82433,APC
+Philadelphia,Bus,2019-04-01,All,ALL,ALL,473732,APC
+Philadelphia,CCT,2019-04-01,All,ALL,ALL,4805,Revenue
+Philadelphia,Heavy Rail,2019-04-01,All,ALL,ALL,305491,Revenue
+Philadelphia,Regional Rail,2019-04-01,All,ALL,ALL,124045,Revenue
+Philadelphia,Trackless Trolley,2019-04-01,All,ALL,ALL,18934,APC
+Philadelphia,Trolley,2019-04-01,All,ALL,ALL,84864,APC
+Philadelphia,Bus,2019-05-01,All,ALL,ALL,480074,APC
+Philadelphia,CCT,2019-05-01,All,ALL,ALL,5655,Revenue
+Philadelphia,Heavy Rail,2019-05-01,All,ALL,ALL,303776,Revenue
+Philadelphia,Regional Rail,2019-05-01,All,ALL,ALL,119187,Revenue
+Philadelphia,Trackless Trolley,2019-05-01,All,ALL,ALL,19452,APC
+Philadelphia,Trolley,2019-05-01,All,ALL,ALL,83413,APC
+Philadelphia,Bus,2019-06-01,All,ALL,ALL,396720,APC
+Philadelphia,CCT,2019-06-01,All,ALL,ALL,4924,Revenue
+Philadelphia,Heavy Rail,2019-06-01,All,ALL,ALL,273813,Revenue
+Philadelphia,Regional Rail,2019-06-01,All,ALL,ALL,113745,Revenue
+Philadelphia,Trackless Trolley,2019-06-01,All,ALL,ALL,15639,APC
+Philadelphia,Trolley,2019-06-01,All,ALL,ALL,73295,APC
+Philadelphia,Bus,2019-07-01,All,ALL,ALL,401911,APC
+Philadelphia,CCT,2019-07-01,All,ALL,ALL,4314,Revenue
+Philadelphia,Heavy Rail,2019-07-01,All,ALL,ALL,263492,Revenue
+Philadelphia,Regional Rail,2019-07-01,All,ALL,ALL,115144,Revenue
+Philadelphia,Trackless Trolley,2019-07-01,All,ALL,ALL,15597,APC
+Philadelphia,Trolley,2019-07-01,All,ALL,ALL,71573,APC
+Philadelphia,Bus,2019-08-01,All,ALL,ALL,406865,APC
+Philadelphia,CCT,2019-08-01,All,ALL,ALL,5649,Revenue
+Philadelphia,Heavy Rail,2019-08-01,All,ALL,ALL,268150,Revenue
+Philadelphia,Regional Rail,2019-08-01,All,ALL,ALL,114436,Revenue
+Philadelphia,Trackless Trolley,2019-08-01,All,ALL,ALL,15313,APC
+Philadelphia,Trolley,2019-08-01,All,ALL,ALL,75874,APC
+Philadelphia,Bus,2019-09-01,All,ALL,ALL,501557,APC
+Philadelphia,CCT,2019-09-01,All,ALL,ALL,4933,Revenue
+Philadelphia,Heavy Rail,2019-09-01,All,ALL,ALL,321907,Revenue
+Philadelphia,Regional Rail,2019-09-01,All,ALL,ALL,138481,Revenue
+Philadelphia,Trackless Trolley,2019-09-01,All,ALL,ALL,19348,APC
+Philadelphia,Trolley,2019-09-01,All,ALL,ALL,80939,APC
+Philadelphia,Bus,2019-10-01,All,ALL,ALL,502857,APC
+Philadelphia,CCT,2019-10-01,All,ALL,ALL,4687,Revenue
+Philadelphia,Heavy Rail,2019-10-01,All,ALL,ALL,326562,Revenue
+Philadelphia,Regional Rail,2019-10-01,All,ALL,ALL,133614,Revenue
+Philadelphia,Trackless Trolley,2019-10-01,All,ALL,ALL,19793,APC
+Philadelphia,Trolley,2019-10-01,All,ALL,ALL,80063,APC
+Philadelphia,Bus,2019-11-01,All,ALL,ALL,490316,APC
+Philadelphia,CCT,2019-11-01,All,ALL,ALL,6145,Revenue
+Philadelphia,Heavy Rail,2019-11-01,All,ALL,ALL,322462,Revenue
+Philadelphia,Regional Rail,2019-11-01,All,ALL,ALL,130761,Revenue
+Philadelphia,Trackless Trolley,2019-11-01,All,ALL,ALL,18880,APC
+Philadelphia,Trolley,2019-11-01,All,ALL,ALL,80113,APC
+Philadelphia,Bus,2019-12-01,All,ALL,ALL,437027,APC
+Philadelphia,CCT,2019-12-01,All,ALL,ALL,4595,Revenue
+Philadelphia,Heavy Rail,2019-12-01,All,ALL,ALL,312677,Revenue
+Philadelphia,Regional Rail,2019-12-01,All,ALL,ALL,128363,Revenue
+Philadelphia,Trackless Trolley,2019-12-01,All,ALL,ALL,17282,APC
+Philadelphia,Trolley,2019-12-01,All,ALL,ALL,78034,APC
+Philadelphia,Bus,2020-01-01,All,ALL,ALL,493261,APC
+Philadelphia,CCT,2020-01-01,All,ALL,ALL,4414,Revenue
+Philadelphia,Heavy Rail,2020-01-01,All,ALL,ALL,311442,Revenue
+Philadelphia,Regional Rail,2020-01-01,All,ALL,ALL,129953,Revenue
+Philadelphia,Trackless Trolley,2020-01-01,All,ALL,ALL,18741,APC
+Philadelphia,Trolley,2020-01-01,All,ALL,ALL,79713,APC
+Philadelphia,Bus,2020-02-01,All,ALL,ALL,503967,APC
+Philadelphia,CCT,2020-02-01,All,ALL,ALL,5075,Revenue
+Philadelphia,Heavy Rail,2020-02-01,All,ALL,ALL,309414,Revenue
+Philadelphia,Regional Rail,2020-02-01,All,ALL,ALL,125397,Revenue
+Philadelphia,Trackless Trolley,2020-02-01,All,ALL,ALL,18226,APC
+Philadelphia,Trolley,2020-02-01,All,ALL,ALL,82076,APC
+Philadelphia,Bus,2020-03-01,All,ALL,ALL,414021,APC
+Philadelphia,CCT,2020-03-01,All,ALL,ALL,3885,Revenue
+Philadelphia,Heavy Rail,2020-03-01,All,ALL,ALL,191819,Revenue
+Philadelphia,Regional Rail,2020-03-01,All,ALL,ALL,60912,Revenue
+Philadelphia,Trackless Trolley,2020-03-01,All,ALL,ALL,14497,APC
+Philadelphia,Trolley,2020-03-01,All,ALL,ALL,58641,APC
+Philadelphia,Bus,2020-04-01,All,ALL,ALL,141411,APC
+Philadelphia,CCT,2020-04-01,All,ALL,ALL,694,Revenue
+Philadelphia,Heavy Rail,2020-04-01,All,ALL,ALL,44353,Revenue
+Philadelphia,Regional Rail,2020-04-01,All,ALL,ALL,5168,Revenue
+Philadelphia,Trackless Trolley,2020-04-01,All,ALL,ALL,4888,APC
+Philadelphia,Trolley,2020-04-01,All,ALL,ALL,14870,APC
+Philadelphia,Bus,2020-05-01,All,ALL,ALL,165838,APC
+Philadelphia,CCT,2020-05-01,All,ALL,ALL,973,Revenue
+Philadelphia,Heavy Rail,2020-05-01,All,ALL,ALL,52913,Revenue
+Philadelphia,Regional Rail,2020-05-01,All,ALL,ALL,2016,Revenue
+Philadelphia,Trackless Trolley,2020-05-01,All,ALL,ALL,6243,APC
+Philadelphia,Trolley,2020-05-01,All,ALL,ALL,20611,APC
+Philadelphia,Bus,2020-06-01,All,ALL,ALL,192334,APC
+Philadelphia,CCT,2020-06-01,All,ALL,ALL,1056,Revenue
+Philadelphia,Heavy Rail,2020-06-01,All,ALL,ALL,66216,Revenue
+Philadelphia,Regional Rail,2020-06-01,All,ALL,ALL,8516,Revenue
+Philadelphia,Trackless Trolley,2020-06-01,All,ALL,ALL,7677,APC
+Philadelphia,Trolley,2020-06-01,All,ALL,ALL,27991,APC
+Philadelphia,Bus,2020-07-01,All,ALL,ALL,203766,APC
+Philadelphia,CCT,2020-07-01,All,ALL,ALL,1076,Revenue
+Philadelphia,Heavy Rail,2020-07-01,All,ALL,ALL,86270,Revenue
+Philadelphia,Regional Rail,2020-07-01,All,ALL,ALL,17381,Revenue
+Philadelphia,Trackless Trolley,2020-07-01,All,ALL,ALL,7666,APC
+Philadelphia,Trolley,2020-07-01,All,ALL,ALL,31135,APC
+Philadelphia,Bus,2020-08-01,All,ALL,ALL,189252,Revenue_Estimate
+Philadelphia,CCT,2020-08-01,All,ALL,ALL,1611,Revenue
+Philadelphia,Heavy Rail,2020-08-01,All,ALL,ALL,87788,Revenue
+Philadelphia,Regional Rail,2020-08-01,All,ALL,ALL,18288,Revenue
+Philadelphia,Trackless Trolley,2020-08-01,All,ALL,ALL,7963,Revenue_Estimate
+Philadelphia,Trolley,2020-08-01,All,ALL,ALL,26191,Revenue_Estimate
+Philadelphia,Bus,2020-09-01,All,ALL,ALL,205693,Revenue_Estimate
+Philadelphia,CCT,2020-09-01,All,ALL,ALL,1471,Revenue
+Philadelphia,Heavy Rail,2020-09-01,All,ALL,ALL,96188,Revenue
+Philadelphia,Regional Rail,2020-09-01,All,ALL,ALL,23479,Revenue
+Philadelphia,Trackless Trolley,2020-09-01,All,ALL,ALL,7932,Revenue_Estimate
+Philadelphia,Trolley,2020-09-01,All,ALL,ALL,23834,Revenue_Estimate
+Philadelphia,Bus,2020-10-01,All,ALL,ALL,207445,Revenue_Estimate
+Philadelphia,CCT,2020-10-01,All,ALL,ALL,1588,Revenue
+Philadelphia,Heavy Rail,2020-10-01,All,ALL,ALL,97333,Revenue
+Philadelphia,Regional Rail,2020-10-01,All,ALL,ALL,22844,Revenue
+Philadelphia,Trackless Trolley,2020-10-01,All,ALL,ALL,8510,Revenue_Estimate
+Philadelphia,Trolley,2020-10-01,All,ALL,ALL,23686,Revenue_Estimate
+Philadelphia,Bus,2020-11-01,All,ALL,ALL,193063,Revenue_Estimate
+Philadelphia,CCT,2020-11-01,All,ALL,ALL,2004,Revenue
+Philadelphia,Heavy Rail,2020-11-01,All,ALL,ALL,88690,Revenue
+Philadelphia,Regional Rail,2020-11-01,All,ALL,ALL,23836,Revenue
+Philadelphia,Trackless Trolley,2020-11-01,All,ALL,ALL,7551,Revenue_Estimate
+Philadelphia,Trolley,2020-11-01,All,ALL,ALL,22903,Revenue_Estimate
+Philadelphia,Bus,2020-12-01,All,ALL,ALL,200729,Revenue_Estimate
+Philadelphia,CCT,2020-12-01,All,ALL,ALL,1314,Revenue
+Philadelphia,Heavy Rail,2020-12-01,All,ALL,ALL,92190,Revenue
+Philadelphia,Regional Rail,2020-12-01,All,ALL,ALL,23381,Revenue
+Philadelphia,Trackless Trolley,2020-12-01,All,ALL,ALL,7431,Revenue_Estimate
+Philadelphia,Trolley,2020-12-01,All,ALL,ALL,24671,Revenue_Estimate
+Philadelphia,Bus,2021-01-01,All,ALL,ALL,184766,APC
+Philadelphia,CCT,2021-01-01,All,ALL,ALL,1381,Revenue
+Philadelphia,Heavy Rail,2021-01-01,All,ALL,ALL,88543,Revenue
+Philadelphia,Regional Rail,2021-01-01,All,ALL,ALL,24283,Revenue
+Philadelphia,Trackless Trolley,2021-01-01,All,ALL,ALL,6573,Revenue_Estimate
+Philadelphia,Trolley,2021-01-01,All,ALL,ALL,24608,Revenue_Estimate
+Philadelphia,Bus,2021-02-01,All,ALL,ALL,184944,APC
+Philadelphia,CCT,2021-02-01,All,ALL,ALL,1399,Revenue
+Philadelphia,Heavy Rail,2021-02-01,All,ALL,ALL,84876,Revenue
+Philadelphia,Regional Rail,2021-02-01,All,ALL,ALL,15466,Revenue
+Philadelphia,Trackless Trolley,2021-02-01,All,ALL,ALL,5884,Revenue_Estimate
+Philadelphia,Trolley,2021-02-01,All,ALL,ALL,24824,Revenue_Estimate
+Philadelphia,Bus,2021-03-01,All,ALL,ALL,208266,APC
+Philadelphia,CCT,2021-03-01,All,ALL,ALL,2082,Revenue
+Philadelphia,Heavy Rail,2021-03-01,All,ALL,ALL,94351,Revenue
+Philadelphia,Regional Rail,2021-03-01,All,ALL,ALL,21225,Revenue
+Philadelphia,Trackless Trolley,2021-03-01,All,ALL,ALL,7336,Revenue_Estimate
+Philadelphia,Trolley,2021-03-01,All,ALL,ALL,25485,Revenue_Estimate
+Philadelphia,Bus,2021-04-01,All,ALL,ALL,209824,APC
+Philadelphia,CCT,2021-04-01,All,ALL,ALL,1833,Revenue
+Philadelphia,Heavy Rail,2021-04-01,All,ALL,ALL,104843,Revenue
+Philadelphia,Regional Rail,2021-04-01,All,ALL,ALL,21312,Revenue
+Philadelphia,Trackless Trolley,2021-04-01,All,ALL,ALL,8331,Revenue_Estimate
+Philadelphia,Trolley,2021-04-01,All,ALL,ALL,27140,Revenue_Estimate
+Philadelphia,Bus,2021-05-01,All,ALL,ALL,216243,APC
+Philadelphia,CCT,2021-05-01,All,ALL,ALL,3158,Revenue
+Philadelphia,Heavy Rail,2021-05-01,All,ALL,ALL,109747,Revenue
+Philadelphia,Regional Rail,2021-05-01,All,ALL,ALL,25380,Revenue
+Philadelphia,Trackless Trolley,2021-05-01,All,ALL,ALL,8752,Revenue_Estimate
+Philadelphia,Trolley,2021-05-01,All,ALL,ALL,28242,Revenue_Estimate
+Philadelphia,Bus,2021-06-01,All,ALL,ALL,222345,APC
+Philadelphia,CCT,2021-06-01,All,ALL,ALL,1564,Revenue
+Philadelphia,Heavy Rail,2021-06-01,All,ALL,ALL,112267,Revenue
+Philadelphia,Regional Rail,2021-06-01,All,ALL,ALL,28832,Revenue
+Philadelphia,Trackless Trolley,2021-06-01,All,ALL,ALL,8289,Revenue_Estimate
+Philadelphia,Trolley,2021-06-01,All,ALL,ALL,30826,Revenue_Estimate
+Philadelphia,Bus,2021-07-01,All,ALL,ALL,232352,APC
+Philadelphia,CCT,2021-07-01,All,ALL,ALL,1736,Revenue
+Philadelphia,Heavy Rail,2021-07-01,All,ALL,ALL,115614,Revenue
+Philadelphia,Regional Rail,2021-07-01,All,ALL,ALL,32582,Revenue
+Philadelphia,Trackless Trolley,2021-07-01,All,ALL,ALL,8578,Revenue_Estimate
+Philadelphia,Trolley,2021-07-01,All,ALL,ALL,28434,Revenue_Estimate
+Philadelphia,Bus,2021-08-01,All,ALL,ALL,238176,APC
+Philadelphia,CCT,2021-08-01,All,ALL,ALL,2478,Revenue
+Philadelphia,Heavy Rail,2021-08-01,All,ALL,ALL,115936,Revenue
+Philadelphia,Regional Rail,2021-08-01,All,ALL,ALL,33513,Revenue
+Philadelphia,Trackless Trolley,2021-08-01,All,ALL,ALL,8269,Revenue_Estimate
+Philadelphia,Trolley,2021-08-01,All,ALL,ALL,30921,Revenue_Estimate
+Philadelphia,Bus,2021-09-01,All,ALL,ALL,291653,APC
+Philadelphia,CCT,2021-09-01,All,ALL,ALL,2144,Revenue
+Philadelphia,Heavy Rail,2021-09-01,All,ALL,ALL,151160,Revenue
+Philadelphia,Regional Rail,2021-09-01,All,ALL,ALL,42560,Revenue
+Philadelphia,Trackless Trolley,2021-09-01,All,ALL,ALL,10835,Revenue_Estimate
+Philadelphia,Trolley,2021-09-01,All,ALL,ALL,37844,Revenue_Estimate
+Philadelphia,Bus,2021-10-01,All,ALL,ALL,302979,APC
+Philadelphia,CCT,2021-10-01,All,ALL,ALL,2236,Revenue
+Philadelphia,Heavy Rail,2021-10-01,All,ALL,ALL,157350,Revenue
+Philadelphia,Regional Rail,2021-10-01,All,ALL,ALL,53831,Revenue
+Philadelphia,Trackless Trolley,2021-10-01,All,ALL,ALL,11480,Revenue_Estimate
+Philadelphia,Trolley,2021-10-01,All,ALL,ALL,37036,Revenue_Estimate
+Philadelphia,Bus,2021-11-01,All,ALL,ALL,293035,APC
+Philadelphia,CCT,2021-11-01,All,ALL,ALL,2380,Revenue
+Philadelphia,Heavy Rail,2021-11-01,All,ALL,ALL,150727,Revenue
+Philadelphia,Regional Rail,2021-11-01,All,ALL,ALL,52291,Revenue
+Philadelphia,Trackless Trolley,2021-11-01,All,ALL,ALL,11139,Revenue_Estimate
+Philadelphia,Trolley,2021-11-01,All,ALL,ALL,35881,Revenue_Estimate
+Philadelphia,Bus,2021-12-01,All,ALL,ALL,272915,APC
+Philadelphia,CCT,2021-12-01,All,ALL,ALL,2351,Revenue
+Philadelphia,Heavy Rail,2021-12-01,All,ALL,ALL,142023,Revenue
+Philadelphia,Regional Rail,2021-12-01,All,ALL,ALL,47061,Revenue
+Philadelphia,Trackless Trolley,2021-12-01,All,ALL,ALL,9677,Revenue_Estimate
+Philadelphia,Trolley,2021-12-01,All,ALL,ALL,34169,Revenue_Estimate
+Philadelphia,Bus,2022-01-01,All,ALL,ALL,243951,APC
+Philadelphia,CCT,2022-01-01,All,ALL,ALL,2019,Revenue
+Philadelphia,Heavy Rail,2022-01-01,All,ALL,ALL,115382,Revenue
+Philadelphia,Regional Rail,2022-01-01,All,ALL,ALL,32407,Revenue
+Philadelphia,Trackless Trolley,2022-01-01,All,ALL,ALL,7753,Revenue_Estimate
+Philadelphia,Trolley,2022-01-01,All,ALL,ALL,30631,Revenue_Estimate
+Philadelphia,Bus,2022-02-01,All,ALL,ALL,292800,APC
+Philadelphia,CCT,2022-02-01,All,ALL,ALL,2309,Revenue
+Philadelphia,Heavy Rail,2022-02-01,All,ALL,ALL,142654,Revenue
+Philadelphia,Regional Rail,2022-02-01,All,ALL,ALL,48846,Revenue
+Philadelphia,Trackless Trolley,2022-02-01,All,ALL,ALL,9078,Revenue_Estimate
+Philadelphia,Trolley,2022-02-01,All,ALL,ALL,40565,Revenue_Estimate
+Philadelphia,Bus,2022-03-01,All,ALL,ALL,303607,APC
+Philadelphia,CCT,2022-03-01,All,ALL,ALL,2564,Revenue
+Philadelphia,Heavy Rail,2022-03-01,All,ALL,ALL,145909,Revenue
+Philadelphia,Regional Rail,2022-03-01,All,ALL,ALL,54994,Revenue
+Philadelphia,Trackless Trolley,2022-03-01,All,ALL,ALL,10722,Revenue_Estimate
+Philadelphia,Trolley,2022-03-01,All,ALL,ALL,38122,Revenue_Estimate
+Philadelphia,Bus,2022-04-01,All,ALL,ALL,297311,APC
+Philadelphia,CCT,2022-04-01,All,ALL,ALL,2677,Revenue
+Philadelphia,Heavy Rail,2022-04-01,All,ALL,ALL,143797,Revenue
+Philadelphia,Regional Rail,2022-04-01,All,ALL,ALL,54044,Revenue
+Philadelphia,Trackless Trolley,2022-04-01,All,ALL,ALL,10035,Revenue_Estimate
+Philadelphia,Trolley,2022-04-01,All,ALL,ALL,35922,Revenue_Estimate
+Philadelphia,Bus,2022-05-01,All,ALL,ALL,313650,APC
+Philadelphia,CCT,2022-05-01,All,ALL,ALL,2714,Revenue
+Philadelphia,Heavy Rail,2022-05-01,All,ALL,ALL,140826,Revenue
+Philadelphia,Regional Rail,2022-05-01,All,ALL,ALL,51962,Revenue
+Philadelphia,Trackless Trolley,2022-05-01,All,ALL,ALL,10504,Revenue_Estimate
+Philadelphia,Trolley,2022-05-01,All,ALL,ALL,38581,Revenue_Estimate
+Philadelphia,Bus,2022-06-01,All,ALL,ALL,262689,APC
+Philadelphia,CCT,2022-06-01,All,ALL,ALL,2631,Revenue
+Philadelphia,Heavy Rail,2022-06-01,All,ALL,ALL,130480,Revenue
+Philadelphia,Regional Rail,2022-06-01,All,ALL,ALL,55791,Revenue
+Philadelphia,Trackless Trolley,2022-06-01,All,ALL,ALL,9227,Revenue_Estimate
+Philadelphia,Trolley,2022-06-01,All,ALL,ALL,35000,Revenue_Estimate
+Philadelphia,Bus,2022-07-01,All,ALL,ALL,272936,APC
+Philadelphia,CCT,2022-07-01,All,ALL,ALL,2743,Revenue
+Philadelphia,Heavy Rail,2022-07-01,All,ALL,ALL,120182,Revenue
+Philadelphia,Regional Rail,2022-07-01,All,ALL,ALL,51583,Revenue
+Philadelphia,Trackless Trolley,2022-07-01,All,ALL,ALL,8734,Revenue_Estimate
+Philadelphia,Trolley,2022-07-01,All,ALL,ALL,34354,Revenue_Estimate
+Philadelphia,Bus,2022-08-01,All,ALL,ALL,272216,APC
+Philadelphia,CCT,2022-08-01,All,ALL,ALL,2742,Revenue
+Philadelphia,Heavy Rail,2022-08-01,All,ALL,ALL,128345,Revenue
+Philadelphia,Regional Rail,2022-08-01,All,ALL,ALL,53394,Revenue
+Philadelphia,Trackless Trolley,2022-08-01,All,ALL,ALL,8728,Revenue_Estimate
+Philadelphia,Trolley,2022-08-01,All,ALL,ALL,44765,Revenue_Estimate
+Philadelphia,Bus,2022-09-01,All,ALL,ALL,341880,APC
+Philadelphia,CCT,2022-09-01,All,ALL,ALL,2864,Revenue
+Philadelphia,Heavy Rail,2022-09-01,All,ALL,ALL,147378,Revenue
+Philadelphia,Regional Rail,2022-09-01,All,ALL,ALL,62122,Revenue
+Philadelphia,Trackless Trolley,2022-09-01,All,ALL,ALL,10641,Revenue_Estimate
+Philadelphia,Trolley,2022-09-01,All,ALL,ALL,39475,Revenue_Estimate
+Philadelphia,Bus,2022-10-01,All,ALL,ALL,340544,APC
+Philadelphia,CCT,2022-10-01,All,ALL,ALL,2857,Revenue
+Philadelphia,Heavy Rail,2022-10-01,All,ALL,ALL,156381,Revenue
+Philadelphia,Regional Rail,2022-10-01,All,ALL,ALL,63954,Revenue
+Philadelphia,Trackless Trolley,2022-10-01,All,ALL,ALL,11084,Revenue_Estimate
+Philadelphia,Trolley,2022-10-01,All,ALL,ALL,39046,Revenue_Estimate
+Philadelphia,Bus,2022-11-01,All,ALL,ALL,338481,APC
+Philadelphia,CCT,2022-11-01,All,ALL,ALL,2851,Revenue
+Philadelphia,Heavy Rail,2022-11-01,All,ALL,ALL,145873,Revenue
+Philadelphia,Regional Rail,2022-11-01,All,ALL,ALL,64215,Revenue
+Philadelphia,Trackless Trolley,2022-11-01,All,ALL,ALL,10195,Revenue_Estimate
+Philadelphia,Trolley,2022-11-01,All,ALL,ALL,40666,Revenue_Estimate
+Philadelphia,Bus,2022-12-01,All,ALL,ALL,299614,APC
+Philadelphia,CCT,2022-12-01,All,ALL,ALL,2869,Revenue
+Philadelphia,Heavy Rail,2022-12-01,All,ALL,ALL,136539,Revenue
+Philadelphia,Regional Rail,2022-12-01,All,ALL,ALL,60226,Revenue
+Philadelphia,Trackless Trolley,2022-12-01,All,ALL,ALL,9677,Revenue_Estimate
+Philadelphia,Trolley,2022-12-01,All,ALL,ALL,37275,Revenue_Estimate
+Philadelphia,Bus,2023-01-01,All,ALL,ALL,319605,APC
+Philadelphia,CCT,2023-01-01,All,ALL,ALL,2834,Revenue
+Philadelphia,Heavy Rail,2023-01-01,All,ALL,ALL,142909,Revenue
+Philadelphia,Regional Rail,2023-01-01,All,ALL,ALL,62311,Revenue
+Philadelphia,Trackless Trolley,2023-01-01,All,ALL,ALL,8931,Revenue_Estimate
+Philadelphia,Trolley,2023-01-01,All,ALL,ALL,39738,Revenue_Estimate
+Philadelphia,Bus,2023-02-01,All,ALL,ALL,342049,APC
+Philadelphia,CCT,2023-02-01,All,ALL,ALL,2882,Revenue
+Philadelphia,Heavy Rail,2023-02-01,All,ALL,ALL,144909,Revenue
+Philadelphia,Regional Rail,2023-02-01,All,ALL,ALL,64720,Revenue
+Philadelphia,Trackless Trolley,2023-02-01,All,ALL,ALL,8742,Revenue_Estimate
+Philadelphia,Trolley,2023-02-01,All,ALL,ALL,44706,Revenue_Estimate
+Philadelphia,Bus,2023-03-01,All,ALL,ALL,341407,APC
+Philadelphia,CCT,2023-03-01,All,ALL,ALL,2982,Revenue
+Philadelphia,Heavy Rail,2023-03-01,All,ALL,ALL,137699,Revenue
+Philadelphia,Regional Rail,2023-03-01,All,ALL,ALL,66514,Revenue
+Philadelphia,Trackless Trolley,2023-03-01,All,ALL,ALL,9594,Revenue_Estimate
+Philadelphia,Trolley,2023-03-01,All,ALL,ALL,39744,Revenue_Estimate
+Philadelphia,Bus,2023-04-01,All,ALL,ALL,336495,APC
+Philadelphia,CCT,2023-04-01,All,ALL,ALL,2952,Revenue
+Philadelphia,Heavy Rail,2023-04-01,All,ALL,ALL,138287,Revenue
+Philadelphia,Regional Rail,2023-04-01,All,ALL,ALL,66900,Revenue
+Philadelphia,Trackless Trolley,2023-04-01,All,ALL,ALL,9656,Revenue_Estimate
+Philadelphia,Trolley,2023-04-01,All,ALL,ALL,38427,Revenue_Estimate
+Philadelphia,Bus,2023-05-01,All,ALL,ALL,359462,APC
+Philadelphia,CCT,2023-05-01,All,ALL,ALL,2985,Revenue
+Philadelphia,Heavy Rail,2023-05-01,All,ALL,ALL,143856,Revenue
+Philadelphia,Regional Rail,2023-05-01,All,ALL,ALL,65979,Revenue
+Philadelphia,Trackless Trolley,2023-05-01,All,ALL,ALL,10310,Revenue_Estimate
+Philadelphia,Trolley,2023-05-01,All,ALL,ALL,47563,APC
+Philadelphia,Bus,2023-06-01,All,ALL,ALL,302745,APC
+Philadelphia,CCT,2023-06-01,All,ALL,ALL,2981,Revenue
+Philadelphia,Heavy Rail,2023-06-01,All,ALL,ALL,134429,Revenue
+Philadelphia,Regional Rail,2023-06-01,All,ALL,ALL,66067,Revenue
+Philadelphia,Trackless Trolley,2023-06-01,All,ALL,ALL,8757,Revenue_Estimate
+Philadelphia,Trolley,2023-06-01,All,ALL,ALL,43548,APC
+Philadelphia,Bus,2023-07-01,All,ALL,ALL,297469,APC
+Philadelphia,CCT,2023-07-01,All,ALL,ALL,2921,Revenue
+Philadelphia,Heavy Rail,2023-07-01,All,ALL,ALL,129900,Revenue
+Philadelphia,Regional Rail,2023-07-01,All,ALL,ALL,61204,Revenue
+Philadelphia,Trackless Trolley,2023-07-01,All,ALL,ALL,8734,Revenue_Estimate
+Philadelphia,Trolley,2023-07-01,All,ALL,ALL,40544,APC
+Philadelphia,Bus,2023-08-01,All,ALL,ALL,307127,APC
+Philadelphia,CCT,2023-08-01,All,ALL,ALL,2972,Revenue
+Philadelphia,Heavy Rail,2023-08-01,All,ALL,ALL,141078,Revenue
+Philadelphia,Regional Rail,2023-08-01,All,ALL,ALL,60123,Revenue
+Philadelphia,Trackless Trolley,2023-08-01,All,ALL,ALL,9034,Revenue_Estimate
+Philadelphia,Trolley,2023-08-01,All,ALL,ALL,44092,APC
+Philadelphia,Bus,2023-09-01,All,ALL,ALL,367249,APC
+Philadelphia,CCT,2023-09-01,All,ALL,ALL,3044,Revenue
+Philadelphia,Heavy Rail,2023-09-01,All,ALL,ALL,181826,Revenue
+Philadelphia,Regional Rail,2023-09-01,All,ALL,ALL,70733,Revenue
+Philadelphia,Trackless Trolley,2023-09-01,All,ALL,ALL,11027,Revenue_Estimate
+Philadelphia,Trolley,2023-09-01,All,ALL,ALL,50049,APC
+Philadelphia,Bus,2023-10-01,All,ALL,ALL,378441,APC
+Philadelphia,CCT,2023-10-01,All,ALL,ALL,3095,Revenue
+Philadelphia,Heavy Rail,2023-10-01,All,ALL,ALL,192092,Revenue
+Philadelphia,Regional Rail,2023-10-01,All,ALL,ALL,74307,Revenue
+Philadelphia,Trackless Trolley,2023-10-01,All,ALL,ALL,11875,Revenue_Estimate
+Philadelphia,Trolley,2023-10-01,All,ALL,ALL,52658,APC
+Philadelphia,Bus,2023-11-01,All,ALL,ALL,368386,APC
+Philadelphia,CCT,2023-11-01,All,ALL,ALL,3089,Revenue
+Philadelphia,Heavy Rail,2023-11-01,All,ALL,ALL,182370,Revenue
+Philadelphia,Regional Rail,2023-11-01,All,ALL,ALL,76946,Revenue
+Philadelphia,Trackless Trolley,2023-11-01,All,ALL,ALL,10384,Revenue_Estimate
+Philadelphia,Trolley,2023-11-01,All,ALL,ALL,49494,APC
+Philadelphia,Bus,2023-12-01,All,ALL,ALL,347255,APC
+Philadelphia,CCT,2023-12-01,All,ALL,ALL,3138,Revenue
+Philadelphia,Heavy Rail,2023-12-01,All,ALL,ALL,171378,Revenue
+Philadelphia,Regional Rail,2023-12-01,All,ALL,ALL,72460,Revenue
+Philadelphia,Trackless Trolley,2023-12-01,All,ALL,ALL,9159,Revenue_Estimate
+Philadelphia,Trolley,2023-12-01,All,ALL,ALL,48402,APC
+Philadelphia,Bus,2024-01-01,All,ALL,ALL,343510,APC
+Philadelphia,CCT,2024-01-01,All,ALL,ALL,2744,Revenue
+Philadelphia,Heavy Rail,2024-01-01,All,ALL,ALL,169013,Revenue
+Philadelphia,Regional Rail,2024-01-01,All,ALL,ALL,69804,Revenue
+Philadelphia,Trackless Trolley,2024-01-01,All,ALL,ALL,8426,Revenue_Estimate
+Philadelphia,Trolley,2024-01-01,All,ALL,ALL,53846,APC
+Philadelphia,Bus,2024-02-01,All,ALL,ALL,374784,APC
+Philadelphia,CCT,2024-02-01,All,ALL,ALL,3054,Revenue
+Philadelphia,Regional Rail,2024-02-01,All,ALL,ALL,77066,Revenue
+Philadelphia,Heavy Rail,2024-02-01,All,ALL,ALL,180105,Revenue
+Philadelphia,Trolley,2024-02-01,All,ALL,ALL,54088,APC
+Philadelphia,Trackless Trolley,2024-02-01,All,ALL,ALL,9206,Revenue_Estimate
+Philadelphia,Bus,2024-03-01,All,ALL,ALL,344983,APC
+Philadelphia,CCT,2024-03-01,All,ALL,ALL,3177,Revenue
+Philadelphia,Regional Rail,2024-03-01,All,ALL,ALL,78463,Revenue
+Philadelphia,Heavy Rail,2024-03-01,All,ALL,ALL,172117,Revenue
+Philadelphia,Trolley,2024-03-01,All,ALL,ALL,50445,APC
+Philadelphia,Trackless Trolley,2024-03-01,All,ALL,ALL,8405,Revenue_Estimate
+Philadelphia,Bus,2024-04-01,All,ALL,ALL,362983,APC
+Philadelphia,CCT,2024-04-01,All,ALL,ALL,3164,Revenue
+Philadelphia,Regional Rail,2024-04-01,All,ALL,ALL,79247,Revenue
+Philadelphia,Heavy Rail,2024-04-01,All,ALL,ALL,195409,Revenue
+Philadelphia,Trolley,2024-04-01,All,ALL,ALL,53229,APC
+Philadelphia,Trackless Trolley,2024-04-01,All,ALL,ALL,12327,APC
+Philadelphia,Bus,2024-05-01,All,ALL,ALL,381468,APC
+Philadelphia,CCT,2024-05-01,All,ALL,ALL,3187,Revenue
+Philadelphia,Regional Rail,2024-05-01,All,ALL,ALL,79261,Revenue
+Philadelphia,Heavy Rail,2024-05-01,All,ALL,ALL,190688,Revenue
+Philadelphia,Trolley,2024-05-01,All,ALL,ALL,52956,APC
+Philadelphia,Trackless Trolley,2024-05-01,All,ALL,ALL,13420,APC
+Philadelphia,Bus,2024-06-01,All,ALL,ALL,341764,APC
+Philadelphia,CCT,2024-06-01,All,ALL,ALL,3187,Revenue
+Philadelphia,Regional Rail,2024-06-01,All,ALL,ALL,75509,Revenue
+Philadelphia,Heavy Rail,2024-06-01,All,ALL,ALL,186343,Revenue
+Philadelphia,Trolley,2024-06-01,All,ALL,ALL,46640,APC
+Philadelphia,Trackless Trolley,2024-06-01,All,ALL,ALL,11640,APC
+Philadelphia,Bus,2024-07-01,All,ALL,ALL,322859,APC
+Philadelphia,CCT,2024-07-01,All,ALL,ALL,3000,Revenue
+Philadelphia,Regional Rail,2024-07-01,All,ALL,ALL,74700,Revenue
+Philadelphia,Heavy Rail,2024-07-01,All,ALL,ALL,187200,Revenue
+Philadelphia,Trolley,2024-07-01,All,ALL,ALL,41973,APC
+Philadelphia,Trackless Trolley,2024-07-01,All,ALL,ALL,10682,APC
+Philadelphia,Bus,2024-08-01,All,ALL,ALL,334527,APC
+Philadelphia,CCT,2024-08-01,All,ALL,ALL,3057,Revenue
+Philadelphia,Regional Rail,2024-08-01,All,ALL,ALL,74066,Revenue
+Philadelphia,Heavy Rail,2024-08-01,All,ALL,ALL,205179,Revenue
+Philadelphia,Trolley,2024-08-01,All,ALL,ALL,47908,APC
+Philadelphia,Trackless Trolley,2024-08-01,All,ALL,ALL,11075,APC
+Philadelphia,Bus,2024-09-01,All,ALL,ALL,401877,APC
+Philadelphia,CCT,2024-09-01,All,ALL,ALL,3139,Revenue
+Philadelphia,Regional Rail,2024-09-01,All,ALL,ALL,84360,Revenue
+Philadelphia,Heavy Rail,2024-09-01,All,ALL,ALL,230261,Revenue
+Philadelphia,Trolley,2024-09-01,All,ALL,ALL,61949,APC
+Philadelphia,Trackless Trolley,2024-09-01,All,ALL,ALL,13804,APC
+Philadelphia,Bus,2024-10-01,All,ALL,ALL,405318,APC
+Philadelphia,CCT,2024-10-01,All,ALL,ALL,3236,Revenue
+Philadelphia,Regional Rail,2024-10-01,All,ALL,ALL,87030,Revenue
+Philadelphia,Heavy Rail,2024-10-01,All,ALL,ALL,230653,Revenue
+Philadelphia,Trolley,2024-10-01,All,ALL,ALL,61634,APC
+Philadelphia,Trackless Trolley,2024-10-01,All,ALL,ALL,13741,APC
+Philadelphia,Bus,2024-11-01,All,ALL,ALL,382848,APC
+Philadelphia,CCT,2024-11-01,All,ALL,ALL,3145,Revenue
+Philadelphia,Regional Rail,2024-11-01,All,ALL,ALL,86498,Revenue
+Philadelphia,Heavy Rail,2024-11-01,All,ALL,ALL,222197,Revenue
+Philadelphia,Trolley,2024-11-01,All,ALL,ALL,57629,APC
+Philadelphia,Trackless Trolley,2024-11-01,All,ALL,ALL,12902,APC
+Philadelphia,Bus,2024-12-01,All,ALL,ALL,350305,APC
+Philadelphia,CCT,2024-12-01,All,ALL,ALL,3100,Revenue
+Philadelphia,Regional Rail,2024-12-01,All,ALL,ALL,80600,Revenue
+Philadelphia,Heavy Rail,2024-12-01,All,ALL,ALL,204500,Revenue
+Philadelphia,Trolley,2024-12-01,All,ALL,ALL,52008,APC
+Philadelphia,Trackless Trolley,2024-12-01,All,ALL,ALL,11359,APC
+Philadelphia,Bus,2025-01-01,All,ALL,ALL,354820,APC
+Philadelphia,CCT,2025-01-01,All,ALL,ALL,2831,Revenue
+Philadelphia,Regional Rail,2025-01-01,All,ALL,ALL,76737,Revenue
+Philadelphia,Heavy Rail,2025-01-01,All,ALL,ALL,205867,Revenue
+Philadelphia,Trolley,2025-01-01,All,ALL,ALL,53668,APC
+Philadelphia,Trackless Trolley,2025-01-01,All,ALL,ALL,11926,APC
+Philadelphia,Bus,2025-02-01,All,ALL,ALL,375744,APC
+Philadelphia,CCT,2025-02-01,All,ALL,ALL,2300,Revenue
+Philadelphia,Regional Rail,2025-02-01,All,ALL,ALL,88400,Revenue
+Philadelphia,Heavy Rail,2025-02-01,All,ALL,ALL,217100,Revenue
+Philadelphia,Trolley,2025-02-01,All,ALL,ALL,58386,APC
+Philadelphia,Trackless Trolley,2025-02-01,All,ALL,ALL,12007,APC
+Philadelphia,Bus,2025-03-01,All,ALL,ALL,382227,APC
+Philadelphia,CCT,2025-03-01,All,ALL,ALL,3200,Revenue
+Philadelphia,Regional Rail,2025-03-01,All,ALL,ALL,84800,Revenue
+Philadelphia,Heavy Rail,2025-03-01,All,ALL,ALL,204400,Revenue
+Philadelphia,Trolley,2025-03-01,All,ALL,ALL,59188,APC
+Philadelphia,Trackless Trolley,2025-03-01,All,ALL,ALL,12691,APC
+Philadelphia,Bus,2025-04-01,All,ALL,ALL,377072,APC
+Philadelphia,CCT,2025-04-01,All,ALL,ALL,3100,Revenue
+Philadelphia,Regional Rail,2025-04-01,All,ALL,ALL,84300,Revenue
+Philadelphia,Heavy Rail,2025-04-01,All,ALL,ALL,214900,Revenue
+Philadelphia,Trolley,2025-04-01,All,ALL,ALL,58964,APC
+Philadelphia,Trackless Trolley,2025-04-01,All,ALL,ALL,12342,APC
+Philadelphia,Bus,2025-05-01,All,ALL,ALL,387744,APC
+Philadelphia,CCT,2025-05-01,All,ALL,ALL,3228,Revenue
+Philadelphia,Regional Rail,2025-05-01,All,ALL,ALL,84666,Revenue
+Philadelphia,Heavy Rail,2025-05-01,All,ALL,ALL,220334,Revenue
+Philadelphia,Trolley,2025-05-01,All,ALL,ALL,59762,APC
+Philadelphia,Trackless Trolley,2025-05-01,All,ALL,ALL,12557,APC
+Philadelphia,Bus,2025-06-01,All,ALL,ALL,345285,APC
+Philadelphia,CCT,2025-06-01,All,ALL,ALL,3185,Revenue
+Philadelphia,Regional Rail,2025-06-01,All,ALL,ALL,80214,Revenue
+Philadelphia,Heavy Rail,2025-06-01,All,ALL,ALL,215302,Revenue
+Philadelphia,Trolley,2025-06-01,All,ALL,ALL,52876,APC
+Philadelphia,Trackless Trolley,2025-06-01,All,ALL,ALL,11018,APC
+Philadelphia,Bus,2025-07-01,All,ALL,ALL,334079,APC
+Philadelphia,CCT,2025-07-01,All,ALL,ALL,3137,Revenue
+Philadelphia,Regional Rail,2025-07-01,All,ALL,ALL,81331,Revenue
+Philadelphia,Heavy Rail,2025-07-01,All,ALL,ALL,199095,APC
+Philadelphia,Trolley,2025-07-01,All,ALL,ALL,41973,APC
+Philadelphia,Trackless Trolley,2025-07-01,All,ALL,ALL,10142,APC
+Philadelphia,Bus,2025-08-01,All,ALL,ALL,331653,APC
+Philadelphia,CCT,2025-08-01,All,ALL,ALL,3133,Revenue
+Philadelphia,Regional Rail,2025-08-01,All,ALL,ALL,75494,Revenue
+Philadelphia,Heavy Rail,2025-08-01,All,ALL,ALL,197618,APC
+Philadelphia,Trolley,2025-08-01,All,ALL,ALL,43687,APC
+Philadelphia,Trackless Trolley,2025-08-01,All,ALL,ALL,10510,APC
+Philadelphia,Bus,2025-09-01,All,ALL,ALL,377001,APC
+Philadelphia,CCT,2025-09-01,All,ALL,ALL,3156,Revenue
+Philadelphia,Regional Rail,2025-09-01,All,ALL,ALL,90523,Revenue
+Philadelphia,Heavy Rail,2025-09-01,All,ALL,ALL,223428,APC
+Philadelphia,Trolley,2025-09-01,All,ALL,ALL,54951,APC
+Philadelphia,Trackless Trolley,2025-09-01,All,ALL,ALL,12830,APC
+Philadelphia,Bus,2025-10-01,All,ALL,ALL,392615,APC
+Philadelphia,CCT,2025-10-01,All,ALL,ALL,3154,Revenue
+Philadelphia,Regional Rail,2025-10-01,All,ALL,ALL,80635,Revenue
+Philadelphia,Heavy Rail,2025-10-01,All,ALL,ALL,228969,APC
+Philadelphia,Trolley,2025-10-01,All,ALL,ALL,61570,APC
+Philadelphia,Trackless Trolley,2025-10-01,All,ALL,ALL,12758,APC
