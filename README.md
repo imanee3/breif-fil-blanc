@@ -161,3 +161,7 @@ data/processed/ — données nettoyées prêtes Power BI
 PowerBI_Dashboard.pbix — rapport Power BI
 
 README.md — documentation
+
+📁 Planification 
+[Voici le lien de Jira](https://imanelen25-1770646756973.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiNTA1ZjA3ZTlhNDc3NDc5ZTgxYmZhYTUyNzZjZDY2YjgiLCJwIjoiaiJ9)
+
