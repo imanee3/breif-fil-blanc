@@ -4,7 +4,7 @@
 
 # Présentation du projet
 
-Ce projet analyse la fréquentation (fréquentation) des réseaux de transport urbain de Chicago et Philadelphie à partir de données historiques. 
+Ce projet analyse la fréquentation des réseaux de transport urbain de Chicago et Philadelphie à partir de données historiques. 
 L'objectif est de concevoir un tableau de bord Power BI interactif et orienté décision, permettant de :
 - Suivre l'évolution du trafic dans le temps
 - Comparer les performances entre villes, modes et itinéraires
@@ -18,13 +18,6 @@ Les agences de transport gèrent des réseaux complexes où la demande varie sel
 - la ville,
 - le mode de transport (bus, train…),
 -les routes (lignes) individuelles.
-
-Sans une vue analytique fiable, il est difficile de :
-
-- anticiper la fluctuation de la demande,
-- optimiser l'allocation des ressources,
-- repérer les routes sous-performantes,
-- benchmarker les performances entre villes.
 
 # Technique d'empilement
 
@@ -70,7 +63,7 @@ Le modèle repose sur un schéma en étoile :
 
 ### Dimensions
 
-Dim_City, Dim_Mode, Dim_Route, Dim_Mois, Dim_Année
+Dim_city, Dim_mode, Dim_route, Dim_month, Dim_year
 
 
 # Structure du tableau de bord
