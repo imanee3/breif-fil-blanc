@@ -1,148 +1,131 @@
-🚍 Analyse du Ridership des Transports Urbains — Chicago & Philadelphie
+# 🚍 Analyse du Ridership des Transports Urbains — Chicago & Philadelphie
 
-Power BI | Python (ETL) | Analyse de données | Aide à la décision
+ ### Power BI | Python | Analyse de données | Aide à la décision
 
-📌 Présentation du projet
+# Présentation du projet
 
-Ce projet analyse la fréquentation (fréquentation) des réseaux de transport urbain de Chicago et Philadelphie à partir de données historiques. L'objectif est de concevoir un tableau de bord Power BI interactif et orienté décision, permettant de :
+Ce projet analyse la fréquentation (fréquentation) des réseaux de transport urbain de Chicago et Philadelphie à partir de données historiques. 
+L'objectif est de concevoir un tableau de bord Power BI interactif et orienté décision, permettant de :
+- Suivre l'évolution du trafic dans le temps
+- Comparer les performances entre villes, modes et itinéraires
+- Identifier les zones d'instabilité et de sous-performance
+- Appuyer des recommandations stratégiques et opérationnelles
 
-Suivre l'évolution du trafic dans le temps
-
-Comparer les performances entre villes, modes et itinéraires
-
-Identifier les zones d'instabilité et de sous-performance
-
-Appuyer des recommandations stratégiques et opérationnelles
-
-🎯 Problématique métier
+# Problématique métier
 
 Les agences de transport gèrent des réseaux complexes où la demande varie selon :
 
-la ville,
-
-le mode de transport (bus, train…),
-
-les routes (lignes) individuelles.
+- la ville,
+- le mode de transport (bus, train…),
+-les routes (lignes) individuelles.
 
 Sans une vue analytique fiable, il est difficile de :
 
-anticiper la fluctuation de la demande,
+- anticiper la fluctuation de la demande,
+- optimiser l'allocation des ressources,
+- repérer les routes sous-performantes,
+- benchmarker les performances entre villes.
 
-optimiser l'allocation des ressources,
+# Technique d'empilement
 
-repérer les routes sous-performantes,
+- Python (EDA & Préparation & qualité des données)
+- Power BI Desktop
+- Modélisation (schéma en étoile)
+- Mesures DAX et KPI
+- Tableaux de bord interactifs
 
-benchmarker les performances entre villes.
-
-🛠️ Technique d'empilement
-
-Python (ETL)
-
-pandas (préparation & qualité des données)
-
-Power BI Desktop
-
-Modélisation (schéma en étoile)
-
-Mesures DAX et KPI
-
-Tableaux de bord interactifs
-
-🔧 ETL & préparation des données (Python)
+# EDA & préparation des données (Python)
 
 Les sources étant hétérogènes, un pipeline de préparation a été réalisé en Python pour produire des tables propres et cohérentes avant Power BI.
 
-Étapes principales :
+## Étapes principales :
 
-Import des fichiers et consolidation (Chicago / Philadelphie)
+- Import des fichiers et consolidation (Chicago / Philadelphie)
 
-Standardisation des champs (Année, Mois, Ville, Mode, Itinéraire, Achalandage)
+- Standardisation des champs (Année, Mois, Ville, Mode, Itinéraire, Achalandage)
 
-Nettoyage : doublons, valeurs manquantes, types de données, formats texte
+- Nettoyage : doublons, valeurs manquantes, types de données, formats texte
 
-Harmonisation inter-villes pour permettre la comparaison
+- Harmonisation inter-villes pour permettre la comparaison
 
-Exporter les tableaux « propres » prêts à charger dans Power BI (processed/*.csv)
+- Export les tableaux « propres » prêts à charger dans Power BI (processed/*.csv)
 
-Contrôles qualité :
+## Contrôles qualité :
 
-validation des clés (période + itinéraire/mode + ville)
+- validation des clés (période + itinéraire/mode + ville)
 
-vérification de complétude par période et par ville
+- vérification de complétude par période et par ville
 
-détection de valeurs aberrantes (zéros incohérents, négatifs)
+- détection de valeurs aberrantes (zéros incohérents, négatifs)
 
-🗂️ Modèle de données (Power BI)
+# Modèle de données (Power BI)
 
 Le modèle repose sur un schéma en étoile :
 
-Faits
+### Faits
 
-Fait_mode : fréquentation par mode
+- Fait_mode : fréquentation par mode
 
-Fait_route : fréquentation par itinéraire
+- Fait_route : fréquentation par itinéraire
 
-Dimensions
+### Dimensions
 
 Dim_City, Dim_Mode, Dim_Route, Dim_Mois, Dim_Année
 
-Tableau de mesures
 
-Mesures DAX (centralisation des KPI)
+# Structure du tableau de bord
 
-📊 Structure du tableau de bord 🔹 Page 1 — Vue d'ensemble
+##  Page 1 — Analyse par Mode de Transport
 
-Objectif : vision globale du trafic.
+**Objectif :**  
 
-Nombre total de passagers
+Fournir une vue d’ensemble du comportement du ridership par mode et par ville.
 
-Évolution temporelle (Chicago vs Philadelphie)
+**Contenu :**
 
-Répartition par mode et par ville
+- KPIs principaux :
+  - Moyenne du ridership
+  - Somme totale du ridership
+  - Écart-type (mesure de la volatilité)
+- Répartition du ridership par mode (Bus vs Rail)
+- Comparaison des modes entre Chicago et Philadelphie
+- Évolution mensuelle du ridership
+- Évolution annuelle du ridership
 
-Volatilité de la demande
+Cette page permet de comprendre la structure globale du réseau et les tendances principales.
 
-Taux d'atteinte des objectifs
+##  Page 2 — Analyse par Routes
 
-🔹 Page 2 — Qualité de service (Mode vs Itinéraire)
+**Objectif :**
 
-Objectif : comparaison performance/stabilité entre modes et itinéraires.
+Analyser la distribution du trafic à un niveau plus détaillé.
 
-Mode pièces vs itinéraire
+**Contenu :**
 
-Top 10 / Bottom 10 itinéraires
+- KPIs liés aux routes :
+  - Nombre total de routes
+  - Volume total de ridership
+- Classement des routes par niveau de fréquentation
+- Comparaison des routes entre les deux villes
+- Évolution mensuelle par ville
+- Évolution annuelle agrégée
 
-Mode de volatilité vs Route
+Cette page met en évidence la concentration du trafic et la structure interne des réseaux urbains.
 
-Graphique « Performance vs Volatilité » pour une lecture décisionnelle
 
-🔹 Page 3 — Comparaison Chicago vs Philadelphie
 
-Objectif : benchmarking inter-villes.
+### 📈 KPIs clés
 
-KPI Chicago vs Philadelphie + écart
+| Indicateur | Description |
+|------------|------------|
+| Moyenne du ridership | Niveau moyen de fréquentation |
+| Somme du ridership | Volume total de fréquentation |
+| Écart-type | Mesure de la variabilité |
+| Nombre de routes | Couverture du réseau |
+| Ridership par mode | Contribution Bus vs Rail |
+| Ridership par route | Répartition du trafic |
 
-Évolution comparative dans le temps
-
-Répartition par mode et différence de stabilité (volatilité)
-
-📈 KPIs clés
-
-Nombre total de passagers (Mode / Itinéraire)
-
-Mode de pièce % / Itinéraire de la pièce %
-
-Évolution mensuelle (MoM)
-
-Volatilisation (écart-type)
-
-Itinéraires du haut/du bas
-
-Performance vs Volatilité (Mode vs Route)
-
-Écart Chicago vs Philadelphie (valeur et %)
-
-💡 Informations et recommandations
+# Informations et recommandations
 
 Piloter la stratégie au niveau des modes (levier principal du volume)
 
@@ -152,16 +135,17 @@ Surveiller les segments à forte utilisation (stabilité du service)
 
 Adapter les décisions par ville (benchmark Chicago vs Philadelphie)
 
-📁 Contenu du dépôt
+# Contenu du dépôt
 
-notebooks/ — notebooks Python (ETL / Nettoyage)
+- notebook Python (EDA / Nettoyage)
 
-data/processed/ — données nettoyées prêtes Power BI
+- data_cleaned — données nettoyées prêtes Power BI
 
-PowerBI_Dashboard.pbix — rapport Power BI
+- temp Dashboard.pbix — rapport Power BI
 
-README.md — documentation
+- README.md — documentation
 
-📁 Planification 
+# Planification 
+
 [Voici le lien de Jira](https://imanelen25-1770646756973.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiNTA1ZjA3ZTlhNDc3NDc5ZTgxYmZhYTUyNzZjZDY2YjgiLCJwIjoiaiJ9)
 
